@@ -1,2 +1,2 @@
 # API-DummyJSON-Automation-Test
-Repository ini berisi Automation Test untuk API DummyJSON yang dikembangkan menggunakan Playwright. Pengujian ini bertujuan untuk memastikan bahwa endpoint API DummyJSON berfungsi dengan baik, konsisten, dan sesuai dengan ekspektasi.
+Repository ini berisi praktik Automation API Testing menggunakan Playwright pada DummyJSON API, dengan berbagai assertion seperti status code, response body, dan validasi schema JSON menggunakan AJV Validator. Proyek ini dibuat sebagai bagian dari pembelajaran dan pengembangan skill QA Automation.
